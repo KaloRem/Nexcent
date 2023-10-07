@@ -3,21 +3,17 @@
   "version": "2.0.0",
   "description": "",
   "homepage": "https://kalorem.github.io/Nexcent",
-  
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Nexcent/"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KaloRem/Nexcent"
   },
-
   "keywords": [],
   "author": "Bogdan Paslawski <bogdan.paslawskii@gmail.com>",
   "license": "ISC",
-
   "dependencies": {
     "modern-normalize": "^1.1.0"
   },

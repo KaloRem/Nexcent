@@ -1,3 +1,37 @@
 /* ROOT */
 :root {
+  /* Neutral */
+  --neutral-black: #263238;
+  --neutral-d-grey: #4d4d4d;
+  --neutral-grey: #717171;
+  --neutral-l-grey: #89939e;
+  --neutral-grey-blue: #abbed1;
+  --neutral-silver: #f5f7fa;
+  --neutral-white: #ffffff;
+
+  /* Primary */
+  --brand-primary: #4caf4f;
+  /* Secondary */
+  --brand-secondary: #263238;
+  /* Info */
+  --brand-info: #2194f3;
+
+  /* Color Shade */
+  --shade-s-1: #43a046;
+  --shade-s-2: #388e3b;
+  --shade-s-3: #237d31;
+  --shade-s-4: #1b5e1f;
+  --shade-s-5: #103e13;
+
+  /* Color Tint */
+  --tint-t-1: #66bb69;
+  --tint-t-2: #81c784;
+  --tint-t-3: #a5d6a7;
+  --tint-t-4: #c8e6c9;
+  --tint-t-5: #e8f5e9;
+
+  /* Action */
+  --action-warning: #fbc02d;
+  --action-error: #e53835;
+  --action-success: #2e7d31;
 }
